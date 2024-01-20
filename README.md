@@ -1,7 +1,7 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]
 <h1 align="center">Hi 👋, I'm Sanjoy Saha</h1>
 <h3 align="center">A Catalog Data Analyst at Amazon since Sept 2020.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=KTbbDeJ4Wwf6KFCPZ0Q1Et1jbaD7d81SHbTx-NVs3QA">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ab0f4cfe426b751c7c655e9d65d36918e3c43cde001cd9a9212515b43cc1acdc/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f343338323431322f73637265656e73686f74732f31353633333237352f6d656469612f30383561303134656265626465373365356364353130633933393431663439612e676966">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanju-a2z-94&label=Profile%20views&color=0e75b6&style=flat" alt="sanju-a2z-94" /> </p>
